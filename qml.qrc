@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>media/busy.mp3</file>
+    </qresource>
+</RCC>
